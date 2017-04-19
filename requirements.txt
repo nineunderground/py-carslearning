@@ -1,3 +1,5 @@
 sklearn
-quandl
+scipy
 pandas
+matplotlib
+seaborn
